@@ -1,0 +1,28 @@
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+.displayContainer {
+    padding-top: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.form-container {
+    width: 60%;
+    margin: 0 auto;
+}
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin: 0 auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
